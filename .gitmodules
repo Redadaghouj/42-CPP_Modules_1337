@@ -1,20 +1,20 @@
 [submodule "42-CPP00_1337"]
-	path = 42-CPP00_1337
+	path = cpp00
 	url = git@github.com:Redadaghouj/42-CPP00_1337
 	branch = main
 [submodule "42-CPP01_1337"]
-	path = 42-CPP01_1337
+	path = cpp01
 	url = git@github.com:Redadaghouj/42-CPP01_1337
 	branch = main
 [submodule "42-CPP02_1337"]
-	path = 42-CPP02_1337
+	path = cpp02
 	url = git@github.com:Redadaghouj/42-CPP02_1337
 	branch = main
 [submodule "42-CPP03_1337"]
-	path = 42-CPP03_1337
+	path = cpp03
 	url = git@github.com:Redadaghouj/42-CPP03_1337
 	branch = main
 [submodule "42-CPP04_1337"]
-	path = 42-CPP04_1337
+	path = cpp04
 	url = git@github.com:Redadaghouj/42-CPP04_1337
 	branch = main
