@@ -1,16 +1,19 @@
 # 🖥️ 42 C++ Modules
 
-[](https://www.42network.org/)
+[![1337 Badge](https://img.shields.io/badge/1337-Project-blue)](https://www.42network.org/)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange)
 
 ### A comprehensive journey through C++ fundamentals and advanced concepts
 
------
+---
 
 ## 📜 Project Overview
 
 This repository serves as a master project for the C++ Common Core at 1337, a series of C++ modules covering fundamental and advanced topics. Each module is a submodule in this repository, designed to be compiled and evaluated independently while building upon concepts from previous exercises.
 
-The project adheres strictly to the **C++98 standard**.
+> ⚠️ All code must follow the **C++98 standard**.
+
+---
 
 ## 📁 Modules
 
