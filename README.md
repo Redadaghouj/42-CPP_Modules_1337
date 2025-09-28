@@ -1,7 +1,7 @@
 # 🖥️ 42 C++ Modules
 
 [![1337 Badge](https://img.shields.io/badge/1337-Project-blue)](https://www.42network.org/)
-![Status](https://img.shields.io/badge/Status-In_Progress-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ### A comprehensive journey through C++ fundamentals and advanced concepts
 
